@@ -1,7 +1,6 @@
 # 💫 About Me:
 <br>Hi, I am Shivamani, a software engineer with 1 year of experience in frontend web development. I help businesses build digital solutions using Bootstrap, JavaScript (React.js), and Redux and Firebase. I am passionate about building scalable products that are valuable to users.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivamanibrt/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Aayush_Bartaula) 
 
