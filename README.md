@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamanibrt" alt="shivamanibrt" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aayush_bartaula" target="blank"><img src="https://img.shields.io/twitter/follow/aayush_bartaula?logo=twitter&style=for-the-badge" alt="aayush_bartaula" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shivamanibrt" target="blank"><img src="https://img.shields.io/twitter/follow/shivamanibrt?logo=twitter&style=for-the-badge" alt="shivamanibrt" /></a> </p>
 
 - 🔭 I’m currently working on [Online Library](https://github.com/shivamanibrt/OnineLibraryMay)
 
