@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **shivamanibrt03350@gmail.com**
 
-- 📄 Know about my experiences [https://shivamanibrt-portfolio.vercel.app/static/media/Shivamani-Bartaula-cv_1.08128896c67555859327.pdf](https://shivamanibrt-portfolio.vercel.app/static/media/Shivamani-Bartaula-cv_1.08128896c67555859327.pdf)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
