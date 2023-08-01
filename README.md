@@ -1,25 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivamani</h1>
 <h3 align="center">A Software engineer from Australia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamanibrt" alt="shivamanibrt" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shivamanibrt" target="blank"><img src="https://img.shields.io/twitter/follow/shivamanibrt?logo=twitter&style=for-the-badge" alt="shivamanibrt" /></a> </p>
-
-- 🔭 I’m currently working on [Online Library](https://github.com/shivamanibrt/OnineLibraryMay)
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://shivamanibrt-portfolio.vercel.app/shivamani](https://shivamanibrt-portfolio.vercel.app/shivamani)
-
-- 📝 I regularly write articles on [https://shivamani.hashnode.dev/](https://shivamani.hashnode.dev/)
-
-- 💬 Ask me about **Web development**
-
-- 📫 How to reach me **shivamanibrt03350@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
