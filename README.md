@@ -6,7 +6,6 @@
 <p align="left">
 <a href="https://twitter.com/aayush_bartaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayush_bartaula" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivamanibrt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamanibrt/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14705226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14705226" height="30" width="40" /></a>
 <a href="https://hashnode.com/@shivamanibrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shivamanibrt" height="30" width="40" /></a>
 <a href="/https://shivamani.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://shivamani.hashnode.dev/" height="30" width="40" /></a>
 </p>
