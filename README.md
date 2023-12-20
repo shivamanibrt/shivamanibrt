@@ -21,8 +21,8 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamanibrt&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 50%; height: 200px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamanibrt&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 50%; height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamanibrt&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 40%; height: 200px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamanibrt&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 40%; height: 200px;">
 </div>
 
 <!-- Most Used Language -->
