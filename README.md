@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: My side project testimonial taking SASS ▪ UI/UX Design ▪ MERN Stack<br><br>👯 I’m looking to collaborate on Innovative web applications and projects related to MERN Stack.<br><br>🤝 I’m looking for help with Establishing a successful career in the Software Development Industry.<br><br>🌱 I’m currently learning: Continuous enhancement of proficiency in cutting-edge technologies.<br><br>💬 Ask me about: Anything related to Full Stack development, MERN Stack, and UI/UX Design.
+🔭 I’m currently working on: My side project testimonial taking SASS ▪ UI/UX Design ▪ MERN Stack<br><br>👯 I’m looking to collaborate on Innovative web applications and projects related to MERN Stack.<br><br>🤝 I’m looking for help with Establishing a successful career in the Software Development Industry.<br><br>🌱 I’m currently learning: Continuous enhancement of proficiency in cutting-edge technologies.<br><br>💬 Ask me about Anything related to Full Stack development, MERN Stack, and UI/UX Design.
 
 
 ## 🌐 Socials:
