@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [testimonypal](testimonypal.com)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Typescript.js**
 
 - 👨‍💻 All of my projects are available at [https://shivamanibrt.com/](https://shivamanibrt.com/)
 
