@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivamanibrt" target="blank"><img src="https://img.shields.io/twitter/follow/shivamanibrt?logo=twitter&style=for-the-badge" alt="shivamanibrt" /></a> </p>
 
-- 🔭 I’m currently working on [testimonypal]([testimonypal.com](https://www.testimonypal.com/signin))
+- 🔭 I’m currently working on ([testimonypal.com](https://www.testimonypal.com/signin))
 
 - 🌱 I’m currently learning **Typescript.js**
 
