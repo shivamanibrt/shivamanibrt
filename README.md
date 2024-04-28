@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **web development and creating SASS**
 
-- 📫 How to reach me **shivamanibrt03350@gmail.com**
+- 📫 How to reach me **shivbartaula@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
