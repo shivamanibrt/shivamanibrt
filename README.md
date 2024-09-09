@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivamanibrt" target="blank"><img src="https://img.shields.io/twitter/follow/shivamanibrt?logo=twitter&style=for-the-badge" alt="shivamanibrt" /></a> </p>
 
-- 🔭 I’m currently working on [Nepalisamaj. com](https://www.nepalisamaj.com.au/)
+- 🔭 I’m currently working on [Nepalisama](https://www.nepalisamaj.com.au/)
 
 - 👨‍💻 All of my projects are available at [https://shivamanibrt.com/](https://shivamanibrt.com/)
 
