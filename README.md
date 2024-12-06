@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Nepali Samaj Australia](https://www.nepalisamaj.com.au/)
 
-- 🌱 I’m currently learning **Php,Laravel**
-
 - 👨‍💻 All of my projects are available at [https://shivamanibrt.com/](https://shivamanibrt.com/)
 
 - 📝 I regularly write articles on [https://shivamani.hashnode.dev/](https://shivamani.hashnode.dev/)
