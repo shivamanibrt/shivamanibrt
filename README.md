@@ -1,29 +1,21 @@
-# Hi 👋, I'm Shiv
+# Hi there, I'm Shiv 👋
 
-Web Developer passionate about creating web applications.
+> Web Developer passionate about creating engaging digital experiences
 
-## About Me
+## 🚀 Current Project
+Currently working on [Nepali Samaj Australia](https://www.nepalisamaj.com.au/)
 
-- 🔭 Currently working on [Nepali Samaj Australia](https://www.nepalisamaj.com.au/)
-- 📝 Writing articles on [my blog](https://shivamani.hashnode.dev/)
-- 💬 Ask me about web development
-- 📫 Contact: shivbartaula@gmail.com
+## 💻 Skills
 
-## Connect With Me
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, TypeScript  
+**Backend:** Node.js, Express, PHP, Laravel  
+**Database:** MongoDB, MySQL, PostgreSQL  
+**DevOps:** AWS, Docker, Firebase
 
-- [Twitter](https://twitter.com/shivamanibrt)
+## ✍️ Blog
+I share my coding journey at [shivamani.hashnode.dev](https://shivamani.hashnode.dev/)
+
+## 📫 Let's Connect
+- Email: shivbartaula@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/shivamanibrt/)
-
-## Skills
-
-**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Bootstrap, Tailwind CSS
-
-**Backend:** Node.js, Express, PHP, Laravel
-
-**Database:** MongoDB, MySQL, PostgreSQL
-
-**Tools:** AWS, Docker, Firebase, Jest
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamanibrt&layout=compact&theme=vue)
+- [Twitter](https://twitter.com/shivamanibrt)
