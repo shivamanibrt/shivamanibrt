@@ -59,24 +59,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamanibrt&layout=compact&theme=vue" alt="Top Languages" />
 </div>
 
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-  <p>Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project.</p>
-</div>
-```
-
-This README features:
-- Clean centered header with your name and role
-- Modern social media badges
-- Well-organized sections for your information
-- Tech stack displayed with colorful badges grouped by category
-- GitHub stats preserved from your original
-- A section for blog posts that can be automatically updated with a GitHub Action
-- A friendly closing message
-
-You can further customize this by adding a GitHub workflow to automatically fetch your latest blog posts from Hashnode.
-```
-
