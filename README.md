@@ -23,15 +23,5 @@ I build web applications using modern technologies. Currently working on [Nepali
 ### Get In Touch
 
 📧 shivbartaula@gmail.com
-```
 
-This README:
-- Has a clean, centered header
-- Uses horizontal dividers for visual separation
-- Presents skills as inline code blocks for a developer feel
-- Groups information into clear sections
-- Uses emoji for visual interest without being overwhelming
-- Maintains simplicity while having a distinct style
-- Is easy for recruiters to scan quickly
-```
 
