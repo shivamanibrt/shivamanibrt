@@ -1,6 +1,6 @@
 <div align="center">
   <h2>👋 Hi, I'm Shiv</h2>
-  <p>Building web apps</p>
+  <p>Building web apps that make an impact</p>
 </div>
 
 ---
@@ -21,6 +21,6 @@
 
 ### 🌐 Connect With Me
 
-- 📝 <a href="https://shivamani.hashnode.dev/" target="_blank">Blog</a>
-- 💼 <a href="https://www.linkedin.com/in/shivamanibrt/" target="_blank">LinkedIn</a>
+- 📝 <a href="https://shivamani.hashnode.dev/" target="_blank">Blog</a>  
+- 💼 <a href="https://www.linkedin.com/in/shivamanibrt/" target="_blank">LinkedIn</a>  
 - 🐦 <a href="https://twitter.com/shivamanibrt" target="_blank">Twitter</a>
