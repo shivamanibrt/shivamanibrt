@@ -8,10 +8,10 @@
 ### 🚀 Projects
 
 - <a href="https://www.nepalisamaj.com.au/" target="_blank">Nepali Samaj Australia</a>  
-  A community-first platform for Nepali people living in Australia — featuring jobs, rooms, ads, events, and more to help everyone stay connected and informed.
+  A platform connecting Nepali communities in Australia with jobs, rooms, and services.
 
 - <a href="https://www.dmmate.com/" target="_blank">DmMate</a>  
-  An AI-powered social media automation tool helping businesses and creators save time, increase engagement, and convert more leads through smart DM responses and lead detection.
+  A tool to automate social media DMs and help businesses engage with their audience.
 
 ### 🛠️ Tech Stack
 
@@ -21,6 +21,6 @@
 
 ### 🌐 Connect With Me
 
-- 📝 [Blog](https://shivamani.hashnode.dev/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivamanibrt/)
-- 🐦 [Twitter](https://twitter.com/shivamanibrt)
+- 📝 <a href="https://shivamani.hashnode.dev/" target="_blank">Blog</a>
+- 💼 <a href="https://www.linkedin.com/in/shivamanibrt/" target="_blank">LinkedIn</a>
+- 🐦 <a href="https://twitter.com/shivamanibrt" target="_blank">Twitter</a>
