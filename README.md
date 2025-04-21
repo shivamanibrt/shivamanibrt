@@ -7,8 +7,11 @@
 
 ### 🚀 Projects
 
-- [Nepali Samaj Australia](https://www.nepalisamaj.com.au/)
-- [DM Mate](https://www.dmmate.com/)
+- [Nepali Samaj Australia](https://www.nepalisamaj.com.au/)  
+  A community-first platform for Nepali people living in Australia — featuring jobs, rooms, ads, events, and more to help everyone stay connected and informed.
+
+- [DmMate](https://www.dmmate.com/)  
+  An AI-powered social media automation tool helping businesses and creators save time, increase engagement, and convert more leads through smart DM responses and lead detection.
 
 ### 🛠️ Tech Stack
 
