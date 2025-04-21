@@ -7,11 +7,11 @@
 
 ### 🚀 Projects
 
-- <a href="https://www.nepalisamaj.com.au/" target="_blank">Nepali Samaj Australia</a>  
-  A platform connecting Nepali communities in Australia with jobs, rooms, and services.
-
 - <a href="https://www.dmmate.com/" target="_blank">DmMate</a>  
   A tool to automate social media DMs and help businesses engage with their audience.
+
+- <a href="https://www.nepalisamaj.com.au/" target="_blank">Nepali Samaj Australia</a>  
+  A platform connecting Nepali communities in Australia with jobs, rooms, and services.
 
 ### 🛠️ Tech Stack
 
