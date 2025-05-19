@@ -5,6 +5,5 @@
 
 ### 🛠️ Tech Stack
 
-`React` `Next.js` `TypeScript` `Node.js` `Express`  
-`MongoDB` `PostgreSQL` `MySQL` `PHP` `Laravel`  
+`React` `Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `PostgreSQL` `MySQL` `PHP` `Laravel` 
 `Tailwind CSS` `Firebase` `Docker` `AWS`
