@@ -1,7 +1,7 @@
 ### 🚀 Projects
 
 - <a href="https://www.dmmate.com/" target="_blank">DmMate</a>  
-  A tool to automate social media Comments and DMs by helping solo creator engage with their audience.
+  Building tool to automate social media Comments and DMs by helping solo creator engage with their audience and generate leads.
 
 ### 🛠️ Tech Stack
 
